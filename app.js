@@ -36,11 +36,12 @@ let arrImages = ['images/1.jpg','images/2.jpg','images/3.jpg','images/4.jpg','im
 let gallerySound = document.getElementsByClassName('newItem');
 
 let i = 0;
+
 function newMandala(){
   let newItem = document.createElement('img');
 
   newItem.setAttribute('class','newItem')
-  newItem.setAttribute('src',arrImages[0 + i])
+  newItem.setAttribute('src',arrImages[i])
 
   document.body.appendChild(newItem);
 
