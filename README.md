@@ -1,2 +1,2 @@
 # sounds-from-earth
-Small interactive gallery app with image &amp; sound 
+Cool interactive gallery app with image &amp; sound 
